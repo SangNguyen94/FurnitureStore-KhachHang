@@ -1,0 +1,177 @@
+import React from 'react';
+import { Placeholder, Table } from 'semantic-ui-react';
+
+const OrderListItemPlaceholder = () => {
+  return (
+    <Table celled>
+      <Table.Header>
+        <Table.Row>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>ID đơn</Placeholder.Paragraph>
+          </Table.HeaderCell>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>Tên người nhận</Placeholder.Paragraph>
+          </Table.HeaderCell>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>Địa chỉ nhận</Placeholder.Paragraph>
+          </Table.HeaderCell>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>Số điện thoại người nhận</Placeholder.Paragraph>
+          </Table.HeaderCell>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>Ngày đặt đơn</Placeholder.Paragraph>
+          </Table.HeaderCell>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>Trạng thái</Placeholder.Paragraph>
+          </Table.HeaderCell>
+          <Table.HeaderCell>
+            <Placeholder.Paragraph>Tìm kiếm</Placeholder.Paragraph>
+          </Table.HeaderCell>
+        </Table.Row>
+      </Table.Header>
+
+      <Table.Body>
+        <Table.Row>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+        </Table.Row>
+        <Table.Row>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+        </Table.Row>
+        <Table.Row>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+        </Table.Row>
+        <Table.Row>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+        </Table.Row>
+        <Table.Row>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+        </Table.Row>
+        <Table.Row>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+          <Table.Cell>
+            <Placeholder.Paragraph>........</Placeholder.Paragraph>
+          </Table.Cell>
+        </Table.Row>
+      </Table.Body>
+    </Table>
+  );
+};
+
+export default OrderListItemPlaceholder;

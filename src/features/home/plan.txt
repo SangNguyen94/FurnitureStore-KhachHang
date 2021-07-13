@@ -1,0 +1,4 @@
+normal route:
+API-> store -> pagination -> component
+Current route:
+component
